@@ -1,0 +1,6 @@
+{
+  "name": "saas 9 Virtual Shoe Try-On with Gemini",
+  "description": "Uses Gemini 2.5 Flash to analyze a model's photo, and Gemini 2.5 Flash Image (Nano Banana) to virtually place shoes on the model.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
